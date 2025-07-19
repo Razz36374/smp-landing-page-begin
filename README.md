@@ -1,3 +1,20 @@
+
+ShortCut Preview :
+
+# Download
+
+Download the Zip File & Extract It.
+
+# VS Code
+
+Install Live Server Extention In Vs Code.
+
+# Preview
+
+After Installing It Go to the "index.html" File & Right Click After Clicking Find The "Open with Live Server" - Here You Go!
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
